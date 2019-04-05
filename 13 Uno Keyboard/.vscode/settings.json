@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/evandro/.platformio/penv/bin:/Users/evandro/.platformio/penv:/Users/evandro/.rvm/gems/ruby-2.6.0/bin:/Users/evandro/.rvm/gems/ruby-2.6.0@global/bin:/Users/evandro/.rvm/rubies/ruby-2.6.0/bin:/usr/local/opt/imagemagick@6/bin:/usr/local/opt/mysql@5.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/evandro/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
